@@ -13,7 +13,7 @@ public class Employee extends Thread {
         try {
             for (int i = 0; i < 2; i++) {
                 sleep(400);
-                document.produce("document nr. "+i+" by " + name);
+                document.produce("document nr. " + i + " by " + name);
             }
         } catch (InterruptedException e) {
             e.printStackTrace();

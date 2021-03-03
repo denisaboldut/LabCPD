@@ -14,7 +14,7 @@ public class Main {
 
         List<Employee> employeeList = new ArrayList<>(8);
 
-        for (int i = 0; i < 8; i++) {
+        for (int i = 0; i < 7; i++) {
             Employee employeeNew = new Employee(data, "Employee " + i, i);
             employeeList.add(employeeNew);
         }

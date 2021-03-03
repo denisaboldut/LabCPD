@@ -7,16 +7,16 @@ public class Printer extends Thread {
 
     @Override
     public void run() {
-        try{
-            while(document.isEmpty()){
+        try {
+            while (document.isEmpty()) {
                 System.out.println("Nothing to consume");
-              sleep(500);
+                sleep(500);
             }
-            while (!document.isEmpty()) {
-                sleep(200);
-                String documentToPrint = document.consume();
+
+            while (true) {
+                document.consume();
             }
-        }catch (InterruptedException e ){
+        } catch (InterruptedException e) {
             e.printStackTrace();
         }
 
