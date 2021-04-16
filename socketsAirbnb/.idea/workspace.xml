@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a53408c1-9533-4b3e-885c-b1fee9394ad7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1r9xp1xSzp4pMfFNbTUNmdBXgRS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="JUnit.Test">
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Server" />
+      <module name="socketsAirbnb" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="socketsAirbnb" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.addLocationAndBook" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="socketsAirbnb" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="METHOD_NAME" value="addLocationAndBook" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.reserveLocationForOneMonth" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="socketsAirbnb" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="METHOD_NAME" value="reserveLocationForOneMonth" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.reserveLocationForOneMonthAndMultipleMonths" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="socketsAirbnb" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="METHOD_NAME" value="reserveLocationForOneMonthAndMultipleMonths" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Test" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="JUnit.Test.addLocationAndBook" />
+        <item itemvalue="JUnit.Test.reserveLocationForOneMonthAndMultipleMonths" />
+        <item itemvalue="JUnit.Test.reserveLocationForOneMonth" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a53408c1-9533-4b3e-885c-b1fee9394ad7" name="Default Changelist" comment="" />
+      <created>1618402285471</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618402285471</updated>
+      <workItem from="1618402289650" duration="12719000" />
+      <workItem from="1618464894944" duration="14715000" />
+      <workItem from="1618554521057" duration="3416000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2494" y="112" key="#com.intellij.ide.util.MemberChooser" timestamp="1618409253010">
+      <screen x="1920" y="-1" width="1536" height="832" />
+    </state>
+    <state x="718" y="141" key="#com.intellij.ide.util.MemberChooser/1920.-1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1618408950500" />
+    <state x="2494" y="112" key="#com.intellij.ide.util.MemberChooser/1920.-1.1536.832/0.0.1920.1040@1920.-1.1536.832" timestamp="1618409253010" />
+    <state width="1877" height="306" key="GridCell.Tab.0.bottom" timestamp="1618557955274">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="306" key="GridCell.Tab.0.bottom/1920.-1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1618557955274" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/1920.-1.1536.832/0.0.1920.1040@1920.-1.1536.832" timestamp="1618406910555" />
+    <state width="1877" height="306" key="GridCell.Tab.0.center" timestamp="1618557955274">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="306" key="GridCell.Tab.0.center/1920.-1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1618557955274" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center/1920.-1.1536.832/0.0.1920.1040@1920.-1.1536.832" timestamp="1618406910555" />
+    <state width="1877" height="306" key="GridCell.Tab.0.left" timestamp="1618557955274">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="306" key="GridCell.Tab.0.left/1920.-1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1618557955274" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left/1920.-1.1536.832/0.0.1920.1040@1920.-1.1536.832" timestamp="1618406910554" />
+    <state width="1877" height="306" key="GridCell.Tab.0.right" timestamp="1618557955274">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="306" key="GridCell.Tab.0.right/1920.-1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1618557955274" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/1920.-1.1536.832/0.0.1920.1040@1920.-1.1536.832" timestamp="1618406910555" />
+    <state x="2169" y="-1" key="SettingsEditor" timestamp="1618406890061">
+      <screen x="1920" y="-1" width="1536" height="832" />
+    </state>
+    <state x="2169" y="-1" key="SettingsEditor/1920.-1.1536.832/0.0.1920.1040@1920.-1.1536.832" timestamp="1618406890061" />
+  </component>
+</project>
